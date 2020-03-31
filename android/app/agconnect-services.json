@@ -1,0 +1,12 @@
+{
+  "client": {
+    "cp_id": "2640052000002216213",
+    "product_id": "9105385871708612820",
+    "client_id": "329996509317694656",
+    "client_secret": "64C5736C6953C6EE8591FBE64922EAD7BB3040DB53D9456336C9CFFDA1B6DECD",
+    "app_id": "101958813",
+    "package_name": "com.vsm.flutterhsmdemoapp",
+    "api_key": "CV6qDK6URrTxZwUt3XKW2oD7UQHdEaaBfbpwqzWFt4/4X/RsIM+3iOd25iK6trzNwHWzjPfo6/QPC7UX1rGyQDdeslCY"
+  },
+  "configuration_version": "1.0"
+}
